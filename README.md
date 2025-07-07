@@ -14,6 +14,8 @@ Tinkercad
 5. 6 Resistor
 6. Wires
 
+## image of the circuit
+![image alt](https://github.com/Sa12345678434/Electronics_Engineering-task-1/blob/main/electrical%20circuit.png?raw=true)
 
 
 
