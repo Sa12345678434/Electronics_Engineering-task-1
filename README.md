@@ -18,7 +18,7 @@ This task requires three buttons to be processed by Arduino so that each button 
 ## image of the circuit
 ![image alt](https://github.com/Sa12345678434/Electronics_Engineering-task-1/blob/main/electrical%20circuit.png?raw=true)
 
-
+## video for output 
 
 
 
