@@ -4,8 +4,8 @@
 This task requires three buttons to be processed by Arduino so that each button can turn on one LED
 
 ## website and application used
-1. Tinkercad
-2. Arduino
+1. Tinkercad website
+2. Arduino application
 
 ## Components used to build the circuit
 1. Arduino Uno R3
