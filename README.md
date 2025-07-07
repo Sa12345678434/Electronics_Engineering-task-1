@@ -12,6 +12,11 @@ Tinkercad
 3. 3 LED
 4. 3 Pushbutton
 5. 6 Resistor
+6. Wires
+
+
+
+
 
 
 
